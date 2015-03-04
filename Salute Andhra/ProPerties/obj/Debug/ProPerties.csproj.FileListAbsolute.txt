@@ -1,0 +1,4 @@
+D:\barath\Salute Andhra\ProPerties\bin\Debug\ProPerties.dll
+D:\barath\Salute Andhra\ProPerties\bin\Debug\ProPerties.pdb
+D:\barath\Salute Andhra\ProPerties\obj\Debug\ProPerties.dll
+D:\barath\Salute Andhra\ProPerties\obj\Debug\ProPerties.pdb

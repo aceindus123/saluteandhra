@@ -1,0 +1,4 @@
+D:\barath\PraPerties\bin\Debug\PraPerties.dll
+D:\barath\PraPerties\bin\Debug\PraPerties.pdb
+D:\barath\PraPerties\obj\Debug\PraPerties.dll
+D:\barath\PraPerties\obj\Debug\PraPerties.pdb

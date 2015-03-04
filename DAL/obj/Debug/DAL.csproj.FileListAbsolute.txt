@@ -1,0 +1,7 @@
+D:\barath\DAL\bin\Debug\DAL.dll
+D:\barath\DAL\bin\Debug\DAL.pdb
+D:\barath\DAL\obj\Debug\DAL.dll
+D:\barath\DAL\obj\Debug\DAL.pdb
+D:\barath\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\barath\DAL\bin\Debug\PraPerties.dll
+D:\barath\DAL\bin\Debug\PraPerties.pdb
